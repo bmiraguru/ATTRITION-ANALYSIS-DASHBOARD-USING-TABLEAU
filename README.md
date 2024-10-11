@@ -10,7 +10,7 @@ Clarified scope and objectives, aiming to gain insights into employee attrition 
 Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and trends using descriptive statistics and data visualization techniques.
 Metric Development:
 
-Utilized Tableau ans advanced LOD functions to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
+Utilized Tableau and advanced LOD functions to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
 Dashboard Creation:
 
 Developed an interactive dashboard in Tableau Public to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
