@@ -13,6 +13,6 @@ Metric Development:
 Utilized Tableau ans advanced LOD functions to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
 Dashboard Creation:
 
-Developed an interactive dashboard in Tableau Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
+Developed an interactive dashboard in Tableau Public to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
 
 Please feel free to read my article on Medium: https://medium.com/@bala.mira297/attrition-analysis-dashboard-using-tableau-c78bcfd292c9
