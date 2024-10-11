@@ -4,9 +4,9 @@ The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performa
 Setting Objectives:
 
 Clarified scope and objectives, aiming to gain insights into employee attrition patterns.
-Data Collection and Exploration:
+**Data Collection and Exploration:**
 
-Gathered HR attrition dataset from Kaggle.
+**Gathered HR attrition dataset from Kaggle.**
 Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and trends using descriptive statistics and data visualization techniques.
 Metric Development:
 
